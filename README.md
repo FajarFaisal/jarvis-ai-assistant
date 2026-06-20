@@ -24,7 +24,7 @@ Jarvis is a personal AI assistant designed to automate tasks, respond to voice c
 
 ### 🖥️ Interface Preview
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7ca21ff1-b30f-4ce0-990a-bcaf0efb582b" width="500">
+  <img src="https://github.com/user-attachments/assets/b24ac52f-1ace-4573-95e6-e4c8420cb1ae" width="500">
 </p>
 Desktop UI showing live conversation and system status.
 
