@@ -13,7 +13,8 @@ Jarvis is a personal AI assistant designed to automate tasks, respond to voice c
 ## Tech Stack
 - Python
 - Speech Recognition / Text-to-Speech libraries
-- OpenAI API (if used)
+- OpenAI API
+- Anthroptic API
 - OS automation libraries
 
 ## How to Run
@@ -21,8 +22,11 @@ Jarvis is a personal AI assistant designed to automate tasks, respond to voice c
 2. Install dependencies
 3. Run main through bash
 
-## Demo
-(Add screenshots or screen recording GIF here)
+### 🖥️ Interface Preview
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7ca21ff1-b30f-4ce0-990a-bcaf0efb582b" width="500">
+</p>
+Desktop UI showing live conversation and system status.
 
 ## What I Learned
 - Working with APIs
