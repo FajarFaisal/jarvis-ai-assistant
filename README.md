@@ -19,7 +19,7 @@ Jarvis is a personal AI assistant designed to automate tasks, respond to voice c
 ## How to Run
 1. Clone repo
 2. Install dependencies
-3. Run main script
+3. Run main through bash
 
 ## Demo
 (Add screenshots or screen recording GIF here)
